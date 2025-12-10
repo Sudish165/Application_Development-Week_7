@@ -1,0 +1,70 @@
+﻿@page "/monkeys"
+
+<h2 style="text-align:center; margin-top:20px;">Monkey Collection</h2>
+
+@if (monkeys.Count == 0)
+{
+    <p style="text-align:center; margin-top:20px;">No monkeys found</p>
+}
+else
+{
+    <div style="display:flex; flex-wrap:wrap; gap:20px; margin-top:20px; justify-content:center;">
+        @foreach (var m in monkeys)
+        {
+            <div style="
+                width:250px;
+                border:1px solid #ccc;
+                padding:15px;
+                border-radius:10px;
+                text-align:center;
+                box-shadow:0 2px 5px rgba(0,0,0,0.1);
+            ">
+                <img src="@m.Image"
+                     alt="@m.Name"
+                     style="width:100%; height:180px; object-fit:cover; border-radius:8px;" />
+
+                <h3 style="margin-top:10px;">@m.Name</h3>
+                <p><strong>Location:</strong> @m.Location</p>
+            </div>
+        }
+    </div>
+
+    <!-- Add the link here -->
+    @if (monkeys.Count > 0)
+    {
+        <p style="text-align:center; margin-top:20px;">
+            <a href="https://example.com/more-monkeys" target="_blank">More Monkeys on this link</a>
+        </p>
+    }
+}
+
+@code {
+    public class Monkey
+    {
+        public string Name { get; set; }
+        public string Location { get; set; }
+        public string Image { get; set; }
+    }
+
+    List<Monkey> monkeys = new()
+    {
+        new Monkey
+        {
+            Name = "Baboon",
+            Location = "Africa & Asia",
+            Image = "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg"
+        },
+        new Monkey
+        {
+            Name = "Capuchin Monkey",
+            Location = "Central & South America",
+            Image = "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/capuchin.jpg"
+        },
+        new Monkey
+        {
+            Name = "Blue Monkey",
+            Location = "Central & East Africa",
+            Image = "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/bluemonkey.jpg"
+        }
+    };
+}

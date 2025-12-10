@@ -1,0 +1,232 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\BIT\\Third_Year\\Fifth_Semester\\Application Development\\code\\Week7\\MauiApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCA7C11-4749-49EF-895C-711F6E87A361}|MauiApp1.csproj|e:\\bit\\third_year\\fifth_semester\\application development\\code\\week7\\mauiapp1\\components\\pages\\intropage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABCA7C11-4749-49EF-895C-711F6E87A361}|MauiApp1.csproj|solutionrelative:components\\pages\\intropage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCA7C11-4749-49EF-895C-711F6E87A361}|MauiApp1.csproj|e:\\bit\\third_year\\fifth_semester\\application development\\code\\week7\\mauiapp1\\wwwroot\\css\\intro.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{ABCA7C11-4749-49EF-895C-711F6E87A361}|MauiApp1.csproj|solutionrelative:wwwroot\\css\\intro.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCA7C11-4749-49EF-895C-711F6E87A361}|MauiApp1.csproj|e:\\bit\\third_year\\fifth_semester\\application development\\code\\week7\\mauiapp1\\components\\pages\\monkeys.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABCA7C11-4749-49EF-895C-711F6E87A361}|MauiApp1.csproj|solutionrelative:components\\pages\\monkeys.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCA7C11-4749-49EF-895C-711F6E87A361}|MauiApp1.csproj|e:\\bit\\third_year\\fifth_semester\\application development\\code\\week7\\mauiapp1\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABCA7C11-4749-49EF-895C-711F6E87A361}|MauiApp1.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCA7C11-4749-49EF-895C-711F6E87A361}|MauiApp1.csproj|e:\\bit\\third_year\\fifth_semester\\application development\\code\\week7\\mauiapp1\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABCA7C11-4749-49EF-895C-711F6E87A361}|MauiApp1.csproj|solutionrelative:components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCA7C11-4749-49EF-895C-711F6E87A361}|MauiApp1.csproj|e:\\bit\\third_year\\fifth_semester\\application development\\code\\week7\\mauiapp1\\components\\pages\\profile.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABCA7C11-4749-49EF-895C-711F6E87A361}|MauiApp1.csproj|solutionrelative:components\\pages\\profile.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCA7C11-4749-49EF-895C-711F6E87A361}|MauiApp1.csproj|e:\\bit\\third_year\\fifth_semester\\application development\\code\\week7\\mauiapp1\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABCA7C11-4749-49EF-895C-711F6E87A361}|MauiApp1.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCA7C11-4749-49EF-895C-711F6E87A361}|MauiApp1.csproj|e:\\bit\\third_year\\fifth_semester\\application development\\code\\week7\\mauiapp1\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABCA7C11-4749-49EF-895C-711F6E87A361}|MauiApp1.csproj|solutionrelative:wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCA7C11-4749-49EF-895C-711F6E87A361}|MauiApp1.csproj|e:\\bit\\third_year\\fifth_semester\\application development\\code\\week7\\mauiapp1\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABCA7C11-4749-49EF-895C-711F6E87A361}|MauiApp1.csproj|solutionrelative:components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCA7C11-4749-49EF-895C-711F6E87A361}|MauiApp1.csproj|e:\\bit\\third_year\\fifth_semester\\application development\\code\\week7\\mauiapp1\\components\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{ABCA7C11-4749-49EF-895C-711F6E87A361}|MauiApp1.csproj|solutionrelative:components\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCA7C11-4749-49EF-895C-711F6E87A361}|MauiApp1.csproj|e:\\bit\\third_year\\fifth_semester\\application development\\code\\week7\\mauiapp1\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABCA7C11-4749-49EF-895C-711F6E87A361}|MauiApp1.csproj|solutionrelative:components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCA7C11-4749-49EF-895C-711F6E87A361}|MauiApp1.csproj|e:\\bit\\third_year\\fifth_semester\\application development\\code\\week7\\mauiapp1\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABCA7C11-4749-49EF-895C-711F6E87A361}|MauiApp1.csproj|solutionrelative:components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "intro.css",
+              "DocumentMoniker": "E:\\BIT\\Third_Year\\Fifth_Semester\\Application Development\\code\\Week7\\MauiApp1\\wwwroot\\css\\intro.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\intro.css",
+              "ToolTip": "E:\\BIT\\Third_Year\\Fifth_Semester\\Application Development\\code\\Week7\\MauiApp1\\wwwroot\\css\\intro.css",
+              "RelativeToolTip": "wwwroot\\css\\intro.css",
+              "ViewState": "AgIAADQAAAAAAAAAAAAswE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-10T03:17:29.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Home.razor",
+              "DocumentMoniker": "E:\\BIT\\Third_Year\\Fifth_Semester\\Application Development\\code\\Week7\\MauiApp1\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
+              "ToolTip": "E:\\BIT\\Third_Year\\Fifth_Semester\\Application Development\\code\\Week7\\MauiApp1\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T02:36:25.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "E:\\BIT\\Third_Year\\Fifth_Semester\\Application Development\\code\\Week7\\MauiApp1\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
+              "ToolTip": "E:\\BIT\\Third_Year\\Fifth_Semester\\Application Development\\code\\Week7\\MauiApp1\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-10T02:53:17.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IntroPage.razor",
+              "DocumentMoniker": "E:\\BIT\\Third_Year\\Fifth_Semester\\Application Development\\code\\Week7\\MauiApp1\\Components\\Pages\\IntroPage.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\IntroPage.razor",
+              "ToolTip": "E:\\BIT\\Third_Year\\Fifth_Semester\\Application Development\\code\\Week7\\MauiApp1\\Components\\Pages\\IntroPage.razor",
+              "RelativeToolTip": "Components\\Pages\\IntroPage.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxcAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-10T02:57:34.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Monkeys.razor",
+              "DocumentMoniker": "E:\\BIT\\Third_Year\\Fifth_Semester\\Application Development\\code\\Week7\\MauiApp1\\Components\\Pages\\Monkeys.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Monkeys.razor",
+              "ToolTip": "E:\\BIT\\Third_Year\\Fifth_Semester\\Application Development\\code\\Week7\\MauiApp1\\Components\\Pages\\Monkeys.razor",
+              "RelativeToolTip": "Components\\Pages\\Monkeys.razor",
+              "ViewState": "AgIAAC8AAAAAAAAAAADwv0YAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-10T03:11:09.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "E:\\BIT\\Third_Year\\Fifth_Semester\\Application Development\\code\\Week7\\MauiApp1\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Counter.razor",
+              "ToolTip": "E:\\BIT\\Third_Year\\Fifth_Semester\\Application Development\\code\\Week7\\MauiApp1\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "Components\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-10T02:57:43.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Profile.razor",
+              "DocumentMoniker": "E:\\BIT\\Third_Year\\Fifth_Semester\\Application Development\\code\\Week7\\MauiApp1\\Components\\Pages\\Profile.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Profile.razor",
+              "ToolTip": "E:\\BIT\\Third_Year\\Fifth_Semester\\Application Development\\code\\Week7\\MauiApp1\\Components\\Pages\\Profile.razor",
+              "RelativeToolTip": "Components\\Pages\\Profile.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-10T03:06:07.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NavMenu.razor.css",
+              "DocumentMoniker": "E:\\BIT\\Third_Year\\Fifth_Semester\\Application Development\\code\\Week7\\MauiApp1\\Components\\Layout\\NavMenu.razor.css",
+              "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor.css",
+              "ToolTip": "E:\\BIT\\Third_Year\\Fifth_Semester\\Application Development\\code\\Week7\\MauiApp1\\Components\\Layout\\NavMenu.razor.css",
+              "RelativeToolTip": "Components\\Layout\\NavMenu.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-10T02:55:41.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "E:\\BIT\\Third_Year\\Fifth_Semester\\Application Development\\code\\Week7\\MauiApp1\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "Components\\Routes.razor",
+              "ToolTip": "E:\\BIT\\Third_Year\\Fifth_Semester\\Application Development\\code\\Week7\\MauiApp1\\Components\\Routes.razor",
+              "RelativeToolTip": "Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-10T02:53:29.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "E:\\BIT\\Third_Year\\Fifth_Semester\\Application Development\\code\\Week7\\MauiApp1\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "Components\\_Imports.razor",
+              "ToolTip": "E:\\BIT\\Third_Year\\Fifth_Semester\\Application Development\\code\\Week7\\MauiApp1\\Components\\_Imports.razor",
+              "RelativeToolTip": "Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-10T02:53:27.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "index.html",
+              "DocumentMoniker": "E:\\BIT\\Third_Year\\Fifth_Semester\\Application Development\\code\\Week7\\MauiApp1\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "wwwroot\\index.html",
+              "ToolTip": "E:\\BIT\\Third_Year\\Fifth_Semester\\Application Development\\code\\Week7\\MauiApp1\\wwwroot\\index.html",
+              "RelativeToolTip": "wwwroot\\index.html",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-12-09T02:59:07.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "E:\\BIT\\Third_Year\\Fifth_Semester\\Application Development\\code\\Week7\\MauiApp1\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor",
+              "ToolTip": "E:\\BIT\\Third_Year\\Fifth_Semester\\Application Development\\code\\Week7\\MauiApp1\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-10T02:53:00.68Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

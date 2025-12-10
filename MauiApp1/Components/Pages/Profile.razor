@@ -1,0 +1,22 @@
+﻿@page "/profile"
+
+<h2>Student Profile</h2>
+
+<div style="text-align:center; margin-top:20px;">
+
+    <img src="@photoPath"
+         alt="Student Photo"
+         style="width:180px; height:180px; border-radius:50%; object-fit:cover; border:2px solid #ccc;" />
+
+    <h3 style="margin-top:15px;">@studentName</h3>
+    <p><strong>Course:</strong> @courseName</p>
+    <p><strong>Batch Year:</strong> @batchYear</p>
+
+</div>
+
+@code {
+    string photoPath = "images/student1.jpg"; // Or use an online image link
+    string studentName = "Sudish Karki";
+    string courseName = "B.Sc. in Computing";
+    string batchYear = "2023";
+}

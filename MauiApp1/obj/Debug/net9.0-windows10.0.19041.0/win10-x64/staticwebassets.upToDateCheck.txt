@@ -1,0 +1,12 @@
+wwwroot\css\app.css
+wwwroot\css\bootstrap\bootstrap.min.css
+wwwroot\css\bootstrap\bootstrap.min.css.map
+wwwroot\images\college.jpg
+wwwroot\images\student1.jpg
+wwwroot\index.html
+wwwroot\css\intro.css
+E:\BIT\Third_Year\Fifth_Semester\Application Development\code\Week7\MauiApp1\wwwroot\css\app.css
+E:\BIT\Third_Year\Fifth_Semester\Application Development\code\Week7\MauiApp1\wwwroot\css\bootstrap\bootstrap.min.css
+E:\BIT\Third_Year\Fifth_Semester\Application Development\code\Week7\MauiApp1\wwwroot\css\bootstrap\bootstrap.min.css.map
+E:\BIT\Third_Year\Fifth_Semester\Application Development\code\Week7\MauiApp1\wwwroot\index.html
+E:\BIT\Third_Year\Fifth_Semester\Application Development\code\Week7\MauiApp1\wwwroot\css\intro.css
